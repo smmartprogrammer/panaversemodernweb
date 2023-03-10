@@ -17,6 +17,7 @@ const Explore = () => (
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
       <TypingText tittle="| Panaverse Dao" textStyles="text-center" />
+      <TitleText tittle={ <>Choose the world you want <br className="md:block hidden"/> to explore</> } textStyles="text-center" />
     </motion.div>
   </section>
 );
