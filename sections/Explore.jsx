@@ -19,7 +19,7 @@ const Explore = () => {
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
-      <TypingText tittle="| Panaverse Dao" textStyles="text-center" />
+      {/* <TypingText tittle="| Panaverse Dao" textStyles="text-center" /> */}
       <TitleText
         tittle={
           <>

@@ -30,7 +30,8 @@ const GetStarted = () => (
         variants={fadeIn("left", "tween", 0.2, 1)}
         className="flex-[0.75] flex justify-center flex-col "
       >
-        <TypingText tittle="| How Metaverse Works" />
+        {/* <TypingText tittle="| How Metaverse Works" /> */}
+<div tittle="| How Metaverse Works" />
         <TitleText tittle={<>Get Started with just a few clicks </>} />
 <div className="mt-[31px] flex flex-col max-w-[370px] gap-[24px] " >
   {startingFeatures.map((feature, index) => (
