@@ -1,29 +1,29 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    imgUrl: '/quaideazam.webp',
+    title: 'KARACHI',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    imgUrl: '/islamabad.webp',
+    title: 'ISLAMABAD',
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    imgUrl: '/lahore.webp',
+    title: 'LAHORE',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    imgUrl: '/peshawar.webp',
+    title: 'PESHAWAR',
   },
-  {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
-  },
+  // {
+  //   id: 'world-5',
+  //   imgUrl: '/planet-05.png',
+  //   title: 'Hawkins Labs',
+  // },
 ];
 
 export const startingFeatures = [
@@ -49,40 +49,54 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: '/web3.jpg',
+    title: 'Web 3.0 (Blockchain) and Metaverse Specialization',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'This Web 3.0 and Metaverse specialization focuses on developing full-stack Web 3.0 and Metaverse experiences for the next generation of the internet by specializing in building worlds that merge the best of cutting-edge decentralized distributed blockchains with 3D metaverse client experiences.',
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: '/ai.jpg',
+    title: 'Artificial Intelligence (AI) and Deep Learning Specialization',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'The AI and Deep Learning specialization focuses on building and deploying intelligent APIs using OpenAI models and building custom Deep Learning Tensorflow models.',
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: '/cloud.png',
+    title: 'Cloud-Native Computing Specialization',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'The Cloud-Native Computing Specialization focuses on Containers, Kubernetes, and CDK for Kubernetes.',
   },
+  {
+    imgUrl: '/iot.webp',
+    title: 'Ambient Computing and IoT Specialization',
+    subtitle:
+        'The Ambient Computing and IoT Specialization focuses on building Smart Homes, Offices, Factories, and Cities using Voice computing, Matter and Embedded Devices.//',
+  },
+
 ];
 
 export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    link: 'https://twitter.com/piaicofficial',
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    link: 'https://www.linkedin.com/company/piaicofficial/',
+
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    link: 'https://www.instagram.com/piaicofficial',
+
   },
   {
     name: 'facebook',
     url: '/facebook.svg',
+    link: 'https://www.facebook.com/groups/panaverse'
+
   },
 ];
