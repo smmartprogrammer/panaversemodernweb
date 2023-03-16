@@ -21,7 +21,7 @@ const GetStarted = () => (
         className={`flex-1 ${styles.flexCenter} `}
       >
         <img
-          src="/get-started.png"
+          src="/panaverse.webp"
           alt="get-started"
           className="w-[90%] h-[90%] object-contain"
         />
@@ -30,7 +30,7 @@ const GetStarted = () => (
         variants={fadeIn("left", "tween", 0.2, 1)}
         className="flex-[0.75] flex justify-center flex-col "
       >
-        <TypingText title="| How Metaverse Works" textStyles="text-center" />
+        <TypingText title="| How Program Works" textStyles="text-center" />
 {/* <div tittle="| How Metaverse Works"></div>  */}
         <TitleText tittle={<>Get Started with just a few clicks </>} />
 <div className="mt-[31px] flex flex-col max-w-[370px] gap-[24px] " >

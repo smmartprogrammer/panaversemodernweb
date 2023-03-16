@@ -27,9 +27,9 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Onsite Classes on highly equiped and secure venue',
+  'Online Classes on Zoom and on Youtube to support and accelerate the curriculum ',
+  'Practicle On job training / internship Opportunities',
 ];
 
 export const newFeatures = [
