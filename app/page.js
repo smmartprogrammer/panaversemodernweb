@@ -4,7 +4,7 @@ import {
   Explore,
   Feedback,
   GetStarted,
-  Hero,
+  // Hero,
   Insights,
   WhatsNew,
   World,
@@ -13,7 +13,7 @@ import {
 const Page = () => (
   <div className="bg-primary-black overflow-hidden">
     <Navbar />
-    <Hero />
+    {/* <Hero /> */}
     <div className="relative">
       <About />
       <div className="gradient-03 z-0" />
