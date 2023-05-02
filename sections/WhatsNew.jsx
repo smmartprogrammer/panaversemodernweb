@@ -47,7 +47,7 @@
 
 const WhatsNew = () => (
   <section>
-    What's new section
+    {/* What's new section */}
   </section>
 );
 
