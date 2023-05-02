@@ -12,6 +12,7 @@ export const TypingText = ({ title, textStyles }) => (
       <motion.span variants={textVariant2} key={index}>
         {letter === '' ? '\u00A0' : letter}
       </motion.span>
+
     ))}
   </motion.p>
 );

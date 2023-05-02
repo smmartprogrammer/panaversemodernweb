@@ -1,4 +1,3 @@
-/* eslint-disable eol-last */
 import Head from 'next/head';
 
 import '../styles/globals.css';
