@@ -35,7 +35,7 @@ lg:bottom-20 lg:rotate-[90deg] lg:origin-[0,0] "
             className={`${styles.flexCenter} w-[60px] h-[60px] rounded-[24px] glassmorphism mb-[16px]`}
           >
             <img
-              src="/piaic.jpg"
+              src="/piaic.png"
               alt="headset"
               className="w-20px h-20px object-cover"
             />
