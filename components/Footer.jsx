@@ -27,7 +27,7 @@ const Footer = () => (
             className="flex items-center h-fit py-4 px-6 bg-[white] rounded-[32px] gap-[12px]"
           >
             <img
-              src="/PIAIC.PNG"
+              src="/panaverse.webp"
               alt="headset"
               className="w-[30px] h-[30px] object-contain"
             />
